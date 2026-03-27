@@ -8,7 +8,7 @@
 
 ✨ **Version**: `v1.0`  
 🔥 **Features**: `Unlimited` | `Fast` | `Secure` | `24/7`  
-⚙️ **Hosting**: `HTML` | `FILES` | `TEXT` | `IMAGE`
+⚙️ **Hosting**: `HTML` | `FILES` | `TEXT` | `IMAGE`  
 💻 **Developer**: [DARK LMNx9](https://t.me/x_LMNx9)
 
 </div>
